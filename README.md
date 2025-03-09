@@ -2,8 +2,6 @@
 
 A modern, responsive web application for creating and studying vocabulary flashcards. Built with React, TypeScript, and Supabase.
 
-![SAT Flashcards App](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=1200&q=80)
-
 ## Features
 
 - 📝 Create and manage vocabulary flashcards
@@ -160,4 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Lucide Icons](https://lucide.dev/)
 
 ## Developer 
-- S.M.Abtahi Noor
+
+![Developer PIC](https://avatars.githubusercontent.com/u/73340940?s=48&v=4) - S.M.Abtahi Noor
+- Linkedin: https://www.linkedin.com/in/smabtahinoor/ 
+- Github : https://github.com/19smabtahinoor
